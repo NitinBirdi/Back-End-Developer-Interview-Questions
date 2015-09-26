@@ -33,7 +33,7 @@ This project is admittedly inspired by [Front-end Job Interview Questions](https
 
 ####[[↑]](#toc) <a name='general'>General Questions:</a>
 
-* Why Functional Programming matters? When should a functional programming language be used?
+* Why Functional Programming matters? When should a functional programming language be used?<br/>
 I think current Procedural or OOP languages can't be run on multiple processors simultaneously because of their binding with data. Functional programming can benefit from it. eg: Scheme and Haskell
 Good in concurrency, gamingAPI, mathematical computations.
 
